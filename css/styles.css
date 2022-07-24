@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+p{font-size: 1rem;
+}
+
+h1 {
+  font-size: 5.62rem;
+  margin: 50px auto auto auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
+  width: 50%;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 2.5rem;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+
+}
+a{
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 30px;
+  margin-top: 100px;
+}
+
+.web {
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+.cloud1 {
+  position: absolute;
+  top: 100px;
+  right: 200px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 250px;
+  top: 250px;
+}
+.bikey{
+  border-radius: 300px;
+  background-color: #AFEEEE;
+  width: 25%;
+  float: left;
+  margin: 30px;
+}
+.chilli{
+  border-radius: 300px;
+  width: 25%;
+  float: right;
+  margin: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.prf-img {
+width: 15%;
+}
+.ending{
+  color: #EAF6F6;
+  font-size: 0.8rem;
+}
+.footer-link{
+  line-height: 2;
+  margin: 40px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #3498db);
+  background-image: -moz-linear-gradient(top, #30e3cb, #3498db);
+  background-image: -ms-linear-gradient(top, #30e3cb, #3498db);
+  background-image: -o-linear-gradient(top, #30e3cb, #3498db);
+  background-image: linear-gradient(to bottom, #30e3cb, #3498db);
+  text-decoration: none;
+}
+.last{
+  margin-bottom: 80px;
+}
+hr{
+  border-style: none;
+  border-bottom-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 6px;
+  width: 5%;
+}
